@@ -8,7 +8,7 @@ public class LoopingBersarang {
                 System.out.print("* ");
                 if (i == j) {
                     break;
-                } else if (i + j == 9) {
+                } else if ((i + j) == 9) {
                     break;
                 }
             }
